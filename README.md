@@ -1,2 +1,2 @@
-# Osun-State-Election-
-Sun state Election Result visualisation with python
+# Osun-State-Election
+Osun state Election Result visualisation with python
